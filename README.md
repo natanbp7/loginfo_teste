@@ -1,5 +1,3 @@
-# loginfo_teste
-Teste de aptidão Loginfo
 Compse Bootstrap Version [3.x/2.x]
 
 ## Installation
@@ -27,41 +25,7 @@ BootstrapUI ships with some example layouts. You can install them using the copy
 
 bin/cake bootstrap copy_layouts
 This will copy the three example layouts cover.php, dashboard.php and signin.php to your application's src/templates/layout/TwitterBootstrap.
-
-
-## Migrations
-use Migrations\AbstractMigration;
-
-class CategoriasProdutos extends AbstractMigration
-{
-    /**
-     * Change Method.
-     *
-     * More information on this method is available here:
-     * https://book.cakephp.org/phinx/0/en/migrations.html#the-change-method
-     * @return void
-     */
-    public function change()
-    {
-    }
-}
-class Vendas extends AbstractMigration
-{
-    /**
-     * Change Method.
-     *
-     * More information on this method is available here:
-     * https://book.cakephp.org/phinx/0/en/migrations.html#the-change-method
-     * @return void
-     */
-    public function change()
-
-
 # CakePHP Application Skeleton
-
-
-
-
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
 [![Total Downloads](https://img.shields.io/packagist/dt/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
